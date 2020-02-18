@@ -1,0 +1,6 @@
+Error:2019/11/14 22:52:28 config.go:30: open config/app.ini: no such file or directory
+Error:2019/11/14 22:59:55 config.go:30: open app.ini: no such file or directory
+Error:2019/11/14 23:02:46 config.go:30: open app.ini: no such file or directory
+Error:2019/11/20 13:55:44 db.go:69: log
+Error:2019/11/20 13:55:44 db.go:70: /Users/zhaodeyong/workspace/webroot/go/src/avatarzlreportcenter/models/report/hospitalReportModel.go:53
+Error:2019/11/20 13:55:44 db.go:71: Error 1054: Unknown column 'erp_org_report.report_ate' in 'where clause'

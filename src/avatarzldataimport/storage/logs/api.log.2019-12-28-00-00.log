@@ -1,0 +1,5 @@
+{"ip":"::1","latency":1453879686,"level":"info","method":"GET","msg":"Request","path":"/import/import-data","status":200,"time":"2019-12-28T14:59:03+08:00"}
+{"ip":"::1","latency":16133703,"level":"info","method":"POST","msg":"Request","path":"/api/web/upload/data","status":500,"time":"2019-12-28T16:33:18+08:00"}
+{"ip":"::1","latency":3541849,"level":"info","method":"POST","msg":"Request","path":"/api/web/upload/data","status":200,"time":"2019-12-28T16:37:48+08:00"}
+{"ip":"::1","latency":15024801,"level":"info","method":"POST","msg":"Request","path":"/api/web/upload/data","status":200,"time":"2019-12-28T16:46:27+08:00"}
+{"ip":"::1","latency":12867230,"level":"info","method":"POST","msg":"Request","path":"/api/web/upload/data","status":200,"time":"2019-12-28T16:50:47+08:00"}

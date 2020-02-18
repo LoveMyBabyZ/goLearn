@@ -1,0 +1,35 @@
+{"ip":"::1","latency":291947165,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":500,"time":"2019-09-20T14:37:00+08:00"}
+{"ip":"::1","latency":10258733,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T14:38:18+08:00"}
+{"ip":"::1","latency":3807,"level":"warning","method":"GET","msg":"Request","path":"/favicon.ico","status":404,"time":"2019-09-20T14:38:18+08:00"}
+{"ip":"::1","latency":279429091,"level":"info","method":"GET","msg":"Error #01: redigo: unexpected type for Bool, got type string\n","path":"/api/course/list","status":500,"time":"2019-09-20T15:10:00+08:00"}
+{"ip":"::1","latency":934010,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:13:58+08:00"}
+{"ip":"::1","latency":4416039,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:15:43+08:00"}
+{"ip":"::1","latency":8439207,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:16:10+08:00"}
+{"ip":"::1","latency":1206858,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:16:35+08:00"}
+{"ip":"::1","latency":1033113,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:17:49+08:00"}
+{"ip":"::1","latency":1370562,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:18:03+08:00"}
+{"ip":"::1","latency":9268131,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:22:16+08:00"}
+{"ip":"::1","latency":5518115,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:23:03+08:00"}
+{"ip":"::1","latency":1426755,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:24:11+08:00"}
+{"ip":"::1","latency":1017856,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:24:12+08:00"}
+{"ip":"::1","latency":793380,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:24:13+08:00"}
+{"ip":"::1","latency":1219117,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:24:13+08:00"}
+{"ip":"::1","latency":1024642,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:24:14+08:00"}
+{"ip":"::1","latency":893315,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:24:14+08:00"}
+{"ip":"::1","latency":9064597,"level":"info","method":"GET","msg":"Error #01: json: cannot unmarshal string into Go value of type map[string]interface {}\n","path":"/api/course/list","status":500,"time":"2019-09-20T15:24:23+08:00"}
+{"ip":"::1","latency":2586112,"level":"info","method":"GET","msg":"Error #01: json: cannot unmarshal string into Go value of type map[string]interface {}\n","path":"/api/course/list","status":500,"time":"2019-09-20T15:25:12+08:00"}
+{"ip":"::1","latency":2221328,"level":"info","method":"GET","msg":"Error #01: json: cannot unmarshal string into Go value of type map[string]interface {}\n","path":"/api/course/list","status":500,"time":"2019-09-20T15:27:21+08:00"}
+{"ip":"::1","latency":4564720,"level":"info","method":"GET","msg":"Error #01: json: cannot unmarshal string into Go value of type map[string]interface {}\n","path":"/api/course/list","status":500,"time":"2019-09-20T15:27:46+08:00"}
+{"ip":"::1","latency":4071697,"level":"info","method":"GET","msg":"Error #01: json: cannot unmarshal string into Go value of type map[string]interface {}\n","path":"/api/course/list","status":500,"time":"2019-09-20T15:27:47+08:00"}
+{"ip":"::1","latency":8033541,"level":"info","method":"GET","msg":"Error #01: json: cannot unmarshal string into Go value of type map[string]interface {}\n","path":"/api/course/list","status":500,"time":"2019-09-20T15:28:00+08:00"}
+{"ip":"::1","latency":8609386,"level":"info","method":"GET","msg":"Error #01: json: cannot unmarshal string into Go value of type map[string]interface {}\n","path":"/api/course/list","status":500,"time":"2019-09-20T15:28:39+08:00"}
+{"ip":"::1","latency":249398422,"level":"info","method":"GET","msg":"Error #01: unexpected end of JSON input\n","path":"/api/course/list","status":500,"time":"2019-09-20T15:29:25+08:00"}
+{"ip":"::1","latency":235616809,"level":"info","method":"GET","msg":"Error #01: unexpected end of JSON input\n","path":"/api/course/list","status":500,"time":"2019-09-20T15:31:51+08:00"}
+{"ip":"::1","latency":4524094,"level":"info","method":"GET","msg":"Error #01: json: cannot unmarshal string into Go value of type map[string]interface {}\n","path":"/api/course/list","status":500,"time":"2019-09-20T15:32:56+08:00"}
+{"ip":"::1","latency":2568672,"level":"info","method":"GET","msg":"Error #01: json: cannot unmarshal string into Go value of type map[string]interface {}\n","path":"/api/course/list","status":500,"time":"2019-09-20T15:36:55+08:00"}
+{"ip":"::1","latency":303606399,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:45:58+08:00"}
+{"ip":"::1","latency":2937943,"level":"info","method":"GET","msg":"Error #01: json: cannot unmarshal string into Go value of type map[string]interface {}\n","path":"/api/course/list","status":500,"time":"2019-09-20T15:46:10+08:00"}
+{"ip":"::1","latency":3061392,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:55:36+08:00"}
+{"ip":"::1","latency":1413519,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:56:05+08:00"}
+{"ip":"::1","latency":9965137,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:56:18+08:00"}
+{"ip":"::1","latency":14513998,"level":"info","method":"GET","msg":"Request","path":"/api/course/list","status":200,"time":"2019-09-20T15:57:06+08:00"}

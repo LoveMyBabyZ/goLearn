@@ -1,0 +1,20 @@
+Info:2019/11/20 20:13:35 db.go:64: sql
+Info:2019/11/20 20:13:35 db.go:65: /Users/zhaodeyong/workspace/webroot/go/src/avatarzlreportcenter/models/hospital/hospitalOnlineModel.go:22
+Info:2019/11/20 20:13:35 db.go:66: 22.402803ms
+Info:2019/11/20 20:13:35 db.go:67: CREATE TABLE `sys_online_date_info` (`id` int(11) NOT NULL,`org_id` int(11) NOT NULL,`org_code` varchar(50) NOT NULL,`online_date` datetime,`report_date` datetime , PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4
+Info:2019/11/20 20:24:06 db.go:64: sql
+Info:2019/11/20 20:24:06 db.go:65: /Users/zhaodeyong/workspace/webroot/go/src/avatarzlreportcenter/models/hospital/hospitalOnlineModel.go:40
+Info:2019/11/20 20:24:06 db.go:66: 21.814029ms
+Info:2019/11/20 20:24:06 db.go:67: SELECT org_id,org_code,online_date,report_date FROM `sys_online_date_info`  WHERE (`sys_online_date_info`.`org_code` = ?) ORDER BY `sys_online_date_info`.`id` ASC LIMIT 1
+Info:2019/11/20 20:24:59 db.go:64: sql
+Info:2019/11/20 20:24:59 db.go:65: /Users/zhaodeyong/workspace/webroot/go/src/avatarzlreportcenter/models/hospital/hospitalOnlineModel.go:40
+Info:2019/11/20 20:24:59 db.go:66: 21.511617ms
+Info:2019/11/20 20:24:59 db.go:67: SELECT org_id,org_code,online_date,report_date FROM `sys_online_date_info`  WHERE (`sys_online_date_info`.`org_code` = ?) ORDER BY `sys_online_date_info`.`id` ASC LIMIT 1
+Info:2019/11/20 20:29:09 db.go:64: sql
+Info:2019/11/20 20:29:09 db.go:65: /Users/zhaodeyong/workspace/webroot/go/src/avatarzlreportcenter/models/hospital/hospitalOnlineModel.go:40
+Info:2019/11/20 20:29:09 db.go:66: 634.79846ms
+Info:2019/11/20 20:29:09 db.go:67: SELECT org_id,org_code,online_date,report_date FROM `sys_online_date_info`  WHERE (`sys_online_date_info`.`org_code` = ?) ORDER BY `sys_online_date_info`.`id` ASC LIMIT 1
+Info:2019/11/20 20:33:23 db.go:64: sql
+Info:2019/11/20 20:33:23 db.go:65: /Users/zhaodeyong/workspace/webroot/go/src/avatarzlreportcenter/models/hospital/hospitalOnlineModel.go:40
+Info:2019/11/20 20:33:23 db.go:66: 19.446452ms
+Info:2019/11/20 20:33:23 db.go:67: SELECT org_id,org_code,online_date,report_date FROM `sys_online_date_info`  WHERE (`sys_online_date_info`.`org_code` = ?) ORDER BY `sys_online_date_info`.`id` ASC LIMIT 1

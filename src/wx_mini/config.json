@@ -1,0 +1,140 @@
+{
+	"appModel":"dev",
+	"dev": {
+		"database": {
+			"Dialect": "mysql",
+			"Database": "edu_system",
+			"User": "root",
+			"Password": "",
+			"Host": "127.0.0.1",
+			"Port": 3306,
+			"Charset": "utf8",
+			"MaxIdleConns": 5,
+			"MaxOpenConns": 10,
+			"URL": ""
+		},
+		"apiServer": {
+			"Debug": false,
+			"FilePath": "/storage/file",
+			"ImgPath": "/storage/img",
+			"Port": 8087,
+			"SessionID": "sid",
+			"PageSize": 20,
+			"MaxPageSize": 100,
+			"MinPageSize": 20,
+			"MaxNameLen": 100,
+			"MaxRemarkLen": 500,
+			"MaxContentLen": 10000,
+			"Timeout": 10
+		},
+		"weApp": {
+			"AppID": "",
+			"Secret": ""
+		},
+		"redis": {
+			"Host": "127.0.0.1",
+			"Port": 6379,
+			"Database":0,
+			"Password": "",
+			"SessionKey": "dyedu_session_secret",
+			"MaxIdle": 30,
+			"MaxActive": 30,
+			"IdleTimeout": 200
+		},
+		"cookie": {
+			"Name": "dyedu_cookie"
+		},
+		"requestHost":{
+			"RpCourseList": "http://211.162.70.169:1007/api/web/index.php/v3/",
+			"RpCourseDetail": "http://school.app.test.rvet.cn/"
+		}
+	},
+	"test": {
+		"database": {
+			"Dialect": "mysql",
+			"Database": "edu_system",
+			"User": "root",
+			"Password": "",
+			"Host": "127.0.0.1",
+			"Port": 3306,
+			"Charset": "utf8",
+			"MaxIdleConns": 5,
+			"MaxOpenConns": 10,
+			"URL": ""
+		},
+		"apiServer": {
+			"Debug": false,
+			"FilePath": "/storage/file",
+			"ImgPath": "/storage/img",
+			"Port": 8087,
+			"SessionID": "sid",
+			"PageSize": 20,
+			"MaxPageSize": 100,
+			"MinPageSize": 20,
+			"MaxNameLen": 100,
+			"MaxRemarkLen": 500,
+			"MaxContentLen": 10000,
+			"Timeout": 10
+		},
+		"weApp": {
+			"AppID": "",
+			"Secret": ""
+		},
+		"redis": {
+			"Host": "127.0.0.1",
+			"Port": 6379,
+			"Password": "",
+			"SessionKey": "dyedu_session_secret",
+			"MaxIdle": 30,
+			"MaxActive": 30,
+			"IdleTimeout": 200
+		},
+		"cookie": {
+			"Name": "dyedu_cookie"
+		}
+	},
+	"prod": {
+		"database": {
+			"Dialect": "mysql",
+			"Database": "edu_system",
+			"User": "root",
+			"Password": "",
+			"Host": "127.0.0.1",
+			"Port": 3306,
+			"Charset": "utf8",
+			"MaxIdleConns": 5,
+			"MaxOpenConns": 10,
+			"URL": ""
+		},
+		"apiServer": {
+			"Debug": false,
+			"FilePath": "/storage/file",
+			"ImgPath": "/storage/img",
+			"Port": 8087,
+			"SessionID": "sid",
+			"PageSize": 20,
+			"MaxPageSize": 100,
+			"MinPageSize": 20,
+			"MaxNameLen": 100,
+			"MaxRemarkLen": 500,
+			"MaxContentLen": 10000,
+			"Timeout": 10
+		},
+		"weApp": {
+			"AppID": "",
+			"Secret": ""
+		},
+		"redis": {
+			"Host": "127.0.0.1",
+			"Port": 6379,
+			"Password": "",
+			"SessionKey": "dyedu_session_secret",
+			"MaxIdle": 30,
+			"MaxActive": 30,
+			"IdleTimeout": 200
+		},
+		"cookie": {
+			"Name": "dyedu_cookie"
+		}
+	}
+}

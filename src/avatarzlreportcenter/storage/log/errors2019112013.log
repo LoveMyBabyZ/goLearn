@@ -1,0 +1,3 @@
+Error:2019/11/20 14:08:01 db.go:69: log
+Error:2019/11/20 14:08:01 db.go:70: /Users/zhaodeyong/workspace/webroot/go/src/avatarzlreportcenter/models/report/hospitalReportModel.go:53
+Error:2019/11/20 14:08:01 db.go:71: Error 1054: Unknown column 'erp_org_report.report_ate' in 'where clause'

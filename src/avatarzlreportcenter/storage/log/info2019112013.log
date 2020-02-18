@@ -1,0 +1,4 @@
+Info:2019/11/20 14:08:01 db.go:64: sql
+Info:2019/11/20 14:08:01 db.go:65: /usr/local/go/src/runtime/panic.go:522
+Info:2019/11/20 14:08:01 db.go:66: 15.195916ms
+Info:2019/11/20 14:08:01 db.go:67: SELECT * FROM `erp_org_report`  WHERE (`erp_org_report`.`org_code` = ?) AND (`erp_org_report`.`report_ate` = ?) LIMIT 10 OFFSET 0

@@ -1,0 +1,13 @@
+{"ip":"::1","latency":180356,"level":"info","method":"POST","msg":"Request","path":"/api/web/import/import-data","status":200,"time":"2020-01-02T21:38:58+08:00"}
+{"ip":"::1","latency":86217,"level":"info","method":"POST","msg":"Request","path":"/api/web/import/import-data?type=1010","status":200,"time":"2020-01-02T21:40:42+08:00"}
+{"ip":"::1","latency":333010,"level":"info","method":"POST","msg":"Request","path":"/api/web/import/import-data?type=1010","status":200,"time":"2020-01-02T21:41:05+08:00"}
+{"ip":"::1","latency":119178,"level":"info","method":"POST","msg":"Request","path":"/api/web/import/import-data","status":200,"time":"2020-01-02T21:41:16+08:00"}
+{"ip":"::1","latency":1046859,"level":"info","method":"POST","msg":"Request","path":"/api/web/import/import-data","status":200,"time":"2020-01-02T21:42:59+08:00"}
+{"ip":"::1","latency":97079,"level":"info","method":"POST","msg":"Request","path":"/api/web/import/import-data?url_path=/Users/zhaody/Desktop/%E5%95%86%E5%93%81%E5%AF%BC%E5%85%A5.xlsx","status":200,"time":"2020-01-02T21:43:17+08:00"}
+{"ip":"::1","latency":146749,"level":"info","method":"POST","msg":"Request","path":"/api/web/import/import-data?url_path=/Users/zhaody/Desktop/%E5%95%86%E5%93%81%E5%AF%BC%E5%85%A5.xlsx","status":200,"time":"2020-01-02T21:43:20+08:00"}
+{"ip":"::1","latency":79460,"level":"info","method":"POST","msg":"Request","path":"/api/web/import/import-data?url_path=/Users/zhaody/Desktop/%E5%95%86%E5%93%81%E5%AF%BC%E5%85%A5.xlsx","status":200,"time":"2020-01-02T21:43:26+08:00"}
+{"ip":"::1","latency":65220,"level":"info","method":"POST","msg":"Request","path":"/api/web/import/import-data?url_path=/Users/zhaody/Desktop/%E5%95%86%E5%93%81%E5%AF%BC%E5%85%A5.xlsx","status":200,"time":"2020-01-02T21:43:27+08:00"}
+{"ip":"::1","latency":76353,"level":"info","method":"POST","msg":"Request","path":"/api/web/import/import-data?url_path=/Users/zhaody/Desktop/%E5%95%86%E5%93%81%E5%AF%BC%E5%85%A5.xlsx","status":200,"time":"2020-01-02T21:43:29+08:00"}
+{"ip":"::1","latency":255551,"level":"info","method":"POST","msg":"Request","path":"/api/web/import/import-data?url_path=/Users/zhaody/Desktop/%E5%95%86%E5%93%81%E5%AF%BC%E5%85%A5.xlsx","status":200,"time":"2020-01-02T21:50:20+08:00"}
+{"ip":"::1","latency":86400,"level":"info","method":"POST","msg":"Request","path":"/api/web/import/import-data?url_path=/Users/zhaody/Desktop/%E5%95%86%E5%93%81%E5%AF%BC%E5%85%A5.xlsx","status":200,"time":"2020-01-02T21:50:30+08:00"}
+{"ip":"::1","latency":1460469037,"level":"info","method":"POST","msg":"Request","path":"/api/web/import/import-data","status":200,"time":"2020-01-02T21:51:35+08:00"}

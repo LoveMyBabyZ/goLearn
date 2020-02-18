@@ -1,0 +1,17 @@
+package goxorm
+
+import (
+	"time"
+)
+
+type SysIssueSwitch struct {
+	BrandId    string    `json:"brand_id" xorm:"not null default '1' comment('品牌id') unique(company_switch) VARCHAR(32)"`
+	CreateTime time.Time `json:"create_time" xorm:"not null default 'CURRENT_TIMESTAMP' comment('下发时间') DATETIME"`
+	Creator    string    `json:"creator" xorm:"not null default '' comment('下发人') VARCHAR(45)"`
+	Id         int       `json:"id" xorm:"not null pk autoincr INT(11)"`
+	Status     int       `json:"status" xorm:"not null default 0 comment('是否启用0表示未启用 1表示启用') INT(1)"`
+	SwitchId   int       `json:"switch_id" xorm:"not null comment('开关id') unique(company_switch) INT(11)"`
+	Type       int       `json:"type" xorm:"not null default 0 comment('类型 0 代表未分配 1 代表 总部端添加 2代表医院端增加') INT(11)"`
+	UpdateTime time.Time `json:"update_time" xorm:"not null default 'CURRENT_TIMESTAMP' comment('更新时间') DATETIME"`
+	Updater    string    `json:"updater" xorm:"not null default '' VARCHAR(45)"`
+}

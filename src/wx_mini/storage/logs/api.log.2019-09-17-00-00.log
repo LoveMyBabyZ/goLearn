@@ -1,0 +1,2 @@
+{"ip":"::1","latency":114794,"level":"info","method":"GET","msg":"Request","path":"/","status":200,"time":"2019-09-17T17:02:06+08:00"}
+{"ip":"::1","latency":12517,"level":"warning","method":"GET","msg":"Request","path":"/favicon.ico","status":404,"time":"2019-09-17T17:02:06+08:00"}

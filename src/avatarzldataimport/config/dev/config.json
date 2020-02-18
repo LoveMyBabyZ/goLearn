@@ -1,0 +1,60 @@
+{
+  "appModel": "dev",
+  "database": {
+    "Dialect": "mysql",
+    "Database": "hmd",
+    "User": "root",
+    "Password": "123456",
+    "Host": "localhost",
+    "Port": "1336",
+    "Charset": "utf8",
+    "MaxIdleConns": 5,
+    "MaxOpenConns": 10,
+    "URL": ""
+  },
+  "hospitalDb": {
+    "Dialect": "mysql",
+    "Database": "hospital_db",
+    "User": "root",
+    "Password": "123456",
+    "Host": "localhost",
+    "Port": "1336",
+    "Charset": "utf8",
+    "MaxIdleConns": 5,
+    "MaxOpenConns": 10,
+    "URL": ""
+  },
+  "apiServer": {
+    "Debug": false,
+    "FilePath": "/storage/file",
+    "ImgPath": "/storage/img",
+    "Port": 8087,
+    "SessionID": "sid",
+    "PageSize": 20,
+    "MaxPageSize": 100,
+    "MinPageSize": 20,
+    "MaxNameLen": 100,
+    "MaxRemarkLen": 500,
+    "MaxContentLen": 10000,
+    "Timeout": 10
+  },
+  "weApp": {
+    "AppID": "",
+    "Secret": ""
+  },
+  "redis": {
+    "Host": "127.0.0.1",
+    "Port": 6379,
+    "Database": 0,
+    "Password": "",
+    "SessionKey": "report_center",
+    "MaxIdle": 30,
+    "MaxActive": 30,
+    "IdleTimeout": 200
+  },
+  "cookie": {
+    "Name": "report_center"
+  },
+  "requestHost": {
+  }
+}

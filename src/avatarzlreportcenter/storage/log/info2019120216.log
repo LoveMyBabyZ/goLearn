@@ -1,0 +1,20 @@
+Info:2019/12/02 16:50:26 db.go:64: sql
+Info:2019/12/02 16:50:26 db.go:65: /Users/zhaodeyong/workspace/webroot/go/src/avatarzlreportcenter/models/report/hospitalReportModel.go:52
+Info:2019/12/02 16:50:26 db.go:66: 34.824499ms
+Info:2019/12/02 16:50:26 db.go:67: SELECT * FROM `erp_org_report`  WHERE (`erp_org_report`.`org_code` = ?) AND (`erp_org_report`.`report_date` = ?)
+Info:2019/12/02 16:51:38 db.go:64: sql
+Info:2019/12/02 16:51:38 db.go:65: /Users/zhaodeyong/workspace/webroot/go/src/avatarzlreportcenter/models/report/hospitalReportModel.go:52
+Info:2019/12/02 16:51:38 db.go:66: 26.306819ms
+Info:2019/12/02 16:51:38 db.go:67: SELECT * FROM `erp_org_report`  WHERE (`erp_org_report`.`report_date` = ?) AND (`erp_org_report`.`org_code` = ?)
+Info:2019/12/02 16:52:46 db.go:64: sql
+Info:2019/12/02 16:52:46 db.go:65: /Users/zhaodeyong/workspace/webroot/go/src/avatarzlreportcenter/models/report/hospitalReportModel.go:52
+Info:2019/12/02 16:52:46 db.go:66: 24.747301ms
+Info:2019/12/02 16:52:46 db.go:67: SELECT * FROM `erp_org_report`  WHERE (`erp_org_report`.`org_code` = ?) AND (`erp_org_report`.`report_date` = ?)
+Info:2019/12/02 16:53:17 db.go:64: sql
+Info:2019/12/02 16:53:17 db.go:65: /Users/zhaodeyong/workspace/webroot/go/src/avatarzlreportcenter/models/report/hospitalReportModel.go:52
+Info:2019/12/02 16:53:17 db.go:66: 39.927688ms
+Info:2019/12/02 16:53:17 db.go:67: SELECT * FROM `erp_org_report`  WHERE (`erp_org_report`.`org_code` = ?) AND (`erp_org_report`.`report_date` = ?)
+Info:2019/12/02 16:55:49 db.go:64: sql
+Info:2019/12/02 16:55:49 db.go:65: /Users/zhaodeyong/workspace/webroot/go/src/avatarzlreportcenter/models/report/hospitalReportModel.go:52
+Info:2019/12/02 16:55:49 db.go:66: 31.476719ms
+Info:2019/12/02 16:55:49 db.go:67: SELECT * FROM `erp_org_report`  WHERE (`erp_org_report`.`org_code` = ?) AND (`erp_org_report`.`report_date` = ?)

@@ -1,0 +1,50 @@
+appModel: dev
+
+databases:
+  hmd:
+    Dialect: mysql
+    Database: hmd
+    User: root
+    Password: 
+    Host: localhost
+    Port: 3306
+    Charset: utf8
+    MaxIdleConns: 5
+    MaxOpenConns: 10
+    URL: 
+  hospital_db:
+    Dialect: mysql
+    Database: hmd
+    User: root
+    Password: 
+    Host: localhost
+    Port: 3306
+    Charset: utf8
+    MaxIdleConns: 5
+    MaxOpenConns: 10
+    URL:
+
+appServer:
+  Debug: false
+  FilePath: /storage/file
+  ImgPath: /storage/img
+  Port: 8087
+  SessionID: importData
+  PageSize: 20
+  MaxPageSize: 100
+  MinPageSize: 20
+  MaxNameLen: 100
+  MaxRemarkLen: 500
+  MaxContentLen: 10000
+  Timeout: 10
+
+redisServer:
+  redis:
+    Host: 127.0.0.1
+    Port: 6379
+    Database: 0
+    Password:
+    SessionKey: report_center
+    MaxIdle: 30
+    MaxActive: 30
+    IdleTimeout: 200
